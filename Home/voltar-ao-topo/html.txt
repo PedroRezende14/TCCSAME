@@ -1,0 +1,15 @@
+
+<!-- The scroll to top star -->
+    
+<div class="scroll-top-wrapper">
+ <img src="imagens/up.png" alt="">
+    <!-- <i class="fa fa-2x fa-arrow-circle-up"></i> -->
+  </span>
+</div>
+
+<script src="voltar-ao-topo/jquery.min.js"></script>
+    <script src="voltar-ao-topo/jquery.easing.min.js"></script>
+    <script src="voltar-ao-topo/custom.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+ <!-- The scroll end -->
